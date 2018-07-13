@@ -124,18 +124,18 @@
   "dependencies": {
     "modernizr": "^3.5.0",
     "normalize.css": "^7.0.0",
-    "npm": "^5.6.0"
+    "npm": "^6.1.0"
   },
   "devDependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.6.0",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-concat": "^2.3.4",
     "gulp-csso": "^3.0.1",
     "gulp-jshint": "^2.1.0",
     "gulp-livereload": "^3.8.1",
     "gulp-load-plugins": "^1.4.0",
-    "gulp-sass": "^3.1.0",
+    "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-template": "^5.0.0",
     "gulp-uglify": "^3.0.0",
